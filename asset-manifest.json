@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.939e6577.css",
+    "main.js": "/website/static/js/main.6a56ac1b.js",
+    "static/js/488.18ec7f5f.chunk.js": "/website/static/js/488.18ec7f5f.chunk.js",
+    "index.html": "/website/index.html",
+    "static/media/Cursor_15.cur": "/website/static/media/Cursor_15.8631aaabd2cfb34ba958.cur",
+    "static/media/CursorsXP.cur": "/website/static/media/CursorsXP.85d4fca447efc91fabb6.cur",
+    "main.939e6577.css.map": "/website/static/css/main.939e6577.css.map",
+    "main.6a56ac1b.js.map": "/website/static/js/main.6a56ac1b.js.map",
+    "488.18ec7f5f.chunk.js.map": "/website/static/js/488.18ec7f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939e6577.css",
+    "static/js/main.6a56ac1b.js"
+  ]
+}
