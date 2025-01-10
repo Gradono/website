@@ -1,0 +1,62 @@
+*{
+  cursor: url(CursorsXP.cur), default;
+}
+
+.App {
+  text-align: center;
+}
+
+a:hover{
+  cursor: url(Cursor_15.cur), pointer;
+}
+
+.Navbar{
+  min-height: fit-content;
+  border-bottom-style: solid;
+  border-width: medium;
+  font-size: 25px;
+}
+
+.navbar-nav{
+  list-style-type: none;
+  width: fit-content;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.Navbar li{
+  float: left;
+  padding: 15px;
+}
+
+.bolded{
+  font-weight: bold;
+}
+
+.list-group{
+  list-style-type: none;
+  padding: 0;
+  font-size: 20px;
+}
+
+.card-body{
+  width: 40vw;
+  border: solid black;
+  margin: 1vw;
+}
+
+.card-title{
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid black;
+  padding-bottom: 5px;
+}
+
+.Cards{
+  display: flex;
+}
+
+.Projects{
+  float: right;
+}
